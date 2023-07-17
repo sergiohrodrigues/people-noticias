@@ -38,7 +38,7 @@ export default {
                     <p>Data de publicação: <br /> {{ r.data.split('-').reverse().join('/') }}</p>
                 </li>
             </ul>
-            <h2 v-else>Sem itens no momento</h2>
+            <h2 v-else>Sem noticias no momento.</h2>
         </section>
     </main>
 </template>
