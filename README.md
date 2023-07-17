@@ -13,17 +13,16 @@ Abra a pasta "front-end" em seu sua IDE de desenvolvimento(visual studio code, s
 
 ## Pronto agora voce poderá testar o projeto
 
-## Tela inicial
+## Página inicial
 Na tela inicial quando nao tiver nenhum noticia cadastrada aparecerá um texto "Sem noticias no momento", mas quando cadastrar já aparecerá a noticia.. e para cadastrar basta ir no menu de navegação e clicar em "Adicionar Noticia". 
 <br/>
 ![Captura de Tela (421)](https://github.com/sergiohrodrigues/people-noticias/assets/86135798/8e9b2f28-543d-45bc-909b-0e3e5546278a)
 
-
-## Tela de cadastro de noticias
+## Página de cadastro de noticias
 Para cadastrar uma nova noticia acesse o menu "Adicionar Noticia" e preencha o formulario com as informações que pedem e clique em "enviar".
 ![Captura de Tela (422)](https://github.com/sergiohrodrigues/people-noticias/assets/86135798/5bfbd2a0-3124-44d1-8418-b1a399f6560e)
 
-## Tela de detalhes
+## Página de detalhes
 Para acessar a tela de detalhes da noticia, certifique de estar em "Menu inicial" e clique sobre o titulo da noticia que mostrará uma tela com as informações da noticia..
 ![Captura de Tela (424)](https://github.com/sergiohrodrigues/people-noticias/assets/86135798/db568448-cb88-4132-a2d2-25a04f6f33de)
 
